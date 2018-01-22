@@ -2,9 +2,6 @@
 title : 토비의 스프링
 layout: post
 ---
-
-# 토비의 스프링 정리
-
 >## DAO
 
 Data Access Object  
