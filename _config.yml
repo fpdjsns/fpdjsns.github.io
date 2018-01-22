@@ -1,6 +1,6 @@
 # Site settings
-title: Hanuman
-description: Hanuman is a minimal yet powerful Jekyll theme for your blogs and websites.
+title: Bae Hyunsu
+description: NHN ENt.
 cover: assets/images/radhakrishna.jpg
 logo: assets/images/logo.png
 favicon: assets/images/favicon.png
@@ -43,7 +43,7 @@ repo: fpdjsns #github repository
 branch: master #branch
 relative_source: ../hanuman/ #source directory
 destination: ../hanuman-pages/ #destination directory
-production_url:  https://samanyougarg.com/
+production_url:  https://fpdjsns.github.io/
 source_url:  https://github.com/samanyougarg/hanuman #source repository url
 
 exclude:
