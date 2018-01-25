@@ -10,7 +10,7 @@ layout: post
 **track by $index** 를 사용하여 해결하였다.
 
 ```javascript
-<태그 ng-repeat = "리스트이름 **track by $index**">
+<태그 ng-repeat = "리스트이름 track by $index">
 ```
 
 예를 들어
