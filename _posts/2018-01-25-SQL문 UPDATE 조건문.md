@@ -19,5 +19,6 @@ WHERE `no` = "t1";
 
 ---  
 
->참고  
-><https://www.w3schools.com/sql/sql_update.asp>
+참고  
+
+<https://www.w3schools.com/sql/sql_update.asp>

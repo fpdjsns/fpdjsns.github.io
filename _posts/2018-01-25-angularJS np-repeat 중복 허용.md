@@ -24,6 +24,7 @@ layout: post
 
 ---  
 
->참고  
-><https://stackoverflow.com/questions/39640160/what-is-track-by-in-angularjs-and-how-does-it-work> 
-><https://docs.angularjs.org/api/ng/directive/ngRepeat>
+참고  
+
+<https://stackoverflow.com/questions/39640160/what-is-track-by-in-angularjs-and-how-does-it-work> 
+<https://docs.angularjs.org/api/ng/directive/ngRepeat>
