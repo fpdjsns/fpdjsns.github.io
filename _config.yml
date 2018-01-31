@@ -11,7 +11,7 @@ paginate:	5 # The number of posts to show per page on your homepage
 # Social
 facebook: facebook
 twitter: twitter
-github:  github
+github:  fpdjsns
 
 #Additional Pages
 about: about
@@ -43,8 +43,8 @@ repo: fpdjsns #github repository
 branch: master #branch
 relative_source: ../hanuman/ #source directory
 destination: ../hanuman-pages/ #destination directory
-production_url:  https://fpdjsns.github.io/
-source_url:  https://fpdjsns.github.io/ #source repository url
+production_url:  https://github.com/fpdjsns/
+source_url:  https://github.com/fpdjsns/ #source repository url
 
 exclude:
   - README.md
