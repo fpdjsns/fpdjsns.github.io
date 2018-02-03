@@ -1,5 +1,8 @@
 - title: Home
-  url: https://fpdjsns.github.io/
+  url: 
 
 - title: About
-  url: about
+  url: about.md
+
+- title: Contact
+  url: contact.md
