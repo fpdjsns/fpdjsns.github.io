@@ -237,7 +237,7 @@ body {
     padding: 0;
   }
   .author-image {
-    background-image: url({{ site.baseurl }}{{site.author_image}});
+    background-image: url({{site.author_image}});
     display: inline-block;
     width: 30px;
     height: 30px;
@@ -263,6 +263,7 @@ body {
 
   .post-content {
     width: 100%;
+    //font-family: $font-serif;
     color: #333333;
     h1, h2, h3 {
       font-family: $font-sans;
@@ -348,9 +349,9 @@ body {
       p {
         letter-spacing: 0.01rem;
         font-weight: 400;
-        mborder-left: 3px solid #57ad68;
-        mpadding-left: 20px;
-        mmargin-left: -26px;
+        border-left: 3px solid #57ad68;
+        padding-left: 20px;
+        margin-left: -26px;
         padding-bottom: 3px;
       }
     }
