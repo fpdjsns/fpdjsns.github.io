@@ -7,5 +7,4 @@ permalink: /about/
 <!-- <amp-img width="600" height="300" layout="responsive" src="http://lorempixel.com/600/300/sports"></amp-img> -->
 
 > 배현수  
-> 의 블로그  
-> 입니다.  
+> NHN ENt.
