@@ -1,7 +1,8 @@
 ---
 layout: page
-title: About
+title: Contact
 permalink: /contact/
 ---
 
-네이버 블로그 : <withham1@naver.com>
+이메일 : withham1@naver.com
+블로그 : <https://blog.naver.com/withham1>
