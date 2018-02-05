@@ -1,7 +1,12 @@
 ---
-title : 토비의 스프링
+title : 토비의 스프링 1장
 layout: post
 ---
+
+토비의 스프링 3.1 1장(오브젝트와 의존관계) 내용을 정리한 글입니다.  
+
+---
+
 >## DAO
 
 Data Access Object  
