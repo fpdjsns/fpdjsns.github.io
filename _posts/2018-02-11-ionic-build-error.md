@@ -16,22 +16,22 @@ ionic cordova build android
 ---
 에러 메시지 확인
 
-![errorImg](./assets/posts/180211-ionic-build-error-error.PNG)
+![errorImg](./assets/posts/180211-ionic-build-error-error.PNG){: width="100%" height="100%"}{: .center}
 
 Android SDK platform **26**  확인
 
 
-![update config.xml Img](./assets/posts/180211-ionic-build-error-updateConfig.xml.PNG)  
+![update config.xml Img](./assets/posts/180211-ionic-build-error-updateConfig.xml.PNG){: width="100%" height="100%"}{: .center}
 
 config.xml에서 android sdk version 변경  
 
-![Android SDK Manager Img](./assets/posts/180211-ionic-build-error-androidSdkManagerSetting.PNG)  
+![Android SDK Manager Img](./assets/posts/180211-ionic-build-error-androidSdkManagerSetting.PNG){: width="100%" height="100%"}{: .center}  
 
 android sdk manger에서  
  Appearance & Behavior > System Settings > Android SDK  
  해당하는 API Level (26) 체크하고 OK   
 
-![success Img](./assets/posts/180211-ionic-build-error-success.PNG)
+![success Img](./assets/posts/180211-ionic-build-error-success.PNG){: width="100%" height="100%"}{: .center}
 
 다시 명령어 실행하면 성공하는 것을 확인할 수 있다.  
 
