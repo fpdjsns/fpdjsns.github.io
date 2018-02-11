@@ -37,7 +37,10 @@ android sdk manger에서
 
 ---
 참고  
-1. <https://forum.ionicframework.com/t/you-have-not-accepted-the-license-agreements-of-the-following-sdk-component/69570>
-2. <https://developer.android.com/studio/intro/update.html#sdk-manager>  
-3. <https://developer.android.com/studio/intro/update.html#download-with-gradle>  
-4. <https://zetawiki.com/wiki/%EC%9C%88%EB%8F%84%EC%9A%B0_JAVA_HOME_%ED%99%98%EA%B2%BD%EB%B3%80%EC%88%98_%EC%84%A4%EC%A0%95>  
+1. [아이오닉 빌드 에러 질문 - forum][1]  
+2. [IDE 및 SDK 도구 업데이트][2]  
+3. [JAVA HOME 환경변수 설정][3]
+
+[1]: https://forum.ionicframework.com/t/you-have-not-accepted-the-license-agreements-of-the-following-sdk-component/69570 "아이오닉 빌드 에러 질문 - forum"
+[2]: https://developer.android.com/studio/intro/update.html#sdk-manager "IDE 및 SDK 도구 업데이트"  
+[3]: https://zetawiki.com/wiki/%EC%9C%88%EB%8F%84%EC%9A%B0_JAVA_HOME_%ED%99%98%EA%B2%BD%EB%B3%80%EC%88%98_%EC%84%A4%EC%A0%95 "JAVA HOME 환경변수 설정"
