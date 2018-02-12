@@ -37,12 +37,5 @@ public void schedulingCrontab() {
 }
 ```
 
-```java
-@Scheduled(cron = "0 */50 * * * *")
-public void schedulingCrontab() {
-  System.out.println("50분 마다 실행 (단, 초는 0초일 때)");
-}
-```
-
 ---
 참고 : <http://www.baeldung.com/spring-scheduled-tasks>
