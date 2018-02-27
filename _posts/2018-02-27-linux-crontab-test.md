@@ -47,3 +47,6 @@ cat hello.txt
 1분 뒤 hello.txt 찍어봄
 
 Hello 출력되면 성공
+
+---
+참고 : <https://zetawiki.com/wiki/1%EB%B6%84%EB%A7%88%EB%8B%A4_%22Hello_World%22_hello.txt_%ED%8C%8C%EC%9D%BC%EC%97%90_%EA%B8%B0%EB%A1%9D%ED%95%98%EA%B8%B0>
