@@ -11,12 +11,17 @@ layout: post
 > 테스트하고자 하는 파일 이름 : crontab_test.sh  
 
 
-## crantab_test.sh에 아래와 같이 작성  
+## crontab_test.sh에 작성  
 ```script
 echo "Hello" >> /home/scripts/hello.txt  
 ```
 Hello를 /home/scripts/hello.txt에 저장하겠다는 의미  
 /home/scripts 위치에 hello.txt 파일 생성  
+
+```script
+$chmod 755 crontab_test.sh
+```
+권한 때문에 실행 안될수도 있으므로 권한 변경 추가  
 
 ## crontab에 crontab_test.sh 등록  
 
