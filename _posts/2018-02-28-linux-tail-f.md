@@ -1,5 +1,5 @@
 ---
-title : shell script tail -f
+title : Linux tail -f
 layout: post
 ---
 
@@ -9,7 +9,7 @@ tail -f [파일명] : "follow for". 스트림 유지. 추가된 내용 추가적
 
 
 실시간으로 모니터링  
-```sh
+```linux
 tail -f [파일명]
 ```
 
