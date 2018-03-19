@@ -23,6 +23,8 @@ private ResponseEntity<SimpleResult> star(@RequestParam("no") String no, @Reques
     SimpleResult result = new SimpleResult();
     result.setStatus(true);
         
-    return new ResponseEntity<SimpleResult>(result, HttpStatus.OK);
-  }
+    //return new ResponseEntity<SimpleResult>(result, HttpStatus.OK);
+    return ResponseEntity.ok().build();
+
+}
 ```
